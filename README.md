@@ -28,7 +28,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [Click Here solution URL here](https://www.frontendmentor.io/challenges/nft-preview-card-component-SbdUL_w0U/hub/nft-preview-card-component-with-html-and-css-Kyx_3VTHU)
 - Live Site URL: [Click Here live site URL here](https://sulabh007.github.io/NFT-preview-card-component-with-HTML-and_CSS/)
 
 
@@ -45,4 +45,4 @@ Users should be able to:
 
 - Website - [sulabh007](https://github.com/sulabh007)
 - Frontend Mentor - [@sulabh007](https://www.frontendmentor.io/profile/sulabh007)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
+
