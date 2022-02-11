@@ -29,7 +29,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [Click Here live site URL here](https://sulabh007.github.io/NFT-preview-card-component-with-HTML-and_CSS/)
 
 
 ### Built with
